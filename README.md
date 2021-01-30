@@ -3,6 +3,8 @@
 [![Gitlab pipeline status (branch)](https://img.shields.io/gitlab/pipeline/andrewbanchich/emmett/master.svg)](https://gitlab.com/andrewbanchich/emmett)
 [![Crates.io](https://img.shields.io/crates/d/emmett.svg)](https://crates.io/crates/emmett)
 
+<img src="https://raw.githubusercontent.com/andrewbanchich/emmett/master/assets/logo.jpg" width="100px">
+
 # About
 
 **emmett** is a functional, composable ETL library written in [Rust](https://www.rust-lang.org/), which means:
