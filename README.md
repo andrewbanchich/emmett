@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/andrewbanchich/emmett/master/assets/logo.jpg" width="100px">
 
-# About
+# Emmett
 
 **emmett** is a functional, composable ETL library written in [Rust](https://www.rust-lang.org/), which means:
 
